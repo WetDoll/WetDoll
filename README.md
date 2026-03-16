@@ -1,1 +1,1 @@
-<img src="mybio.jpeg" width="100%"/>
+<img src="bio.jpeg" width="100%"/>
